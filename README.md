@@ -17,3 +17,4 @@ Photo-to-PDF converter. React + Vite, OpenCV.js, Canvas, jsPDF. No backend, ever
 - OpenCV.js is bundled in public/opencv.js (about 10 MB), so detection works offline. If it ever fails to load, manual corners and Original mode still work.
 - Live scan draws an outline around the document about 8 times a second. Captured and uploaded photos are cropped and straightened automatically in Clean document mode.
 - Limit: 10 pages per PDF, shared between camera and uploads.
+"# PIC2PDF"  
